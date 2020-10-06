@@ -1,3 +1,5 @@
+![Build](https://github.com/googlemaps/playablelocations-proxy/workflows/Build/badge.svg)
+![Docker](https://github.com/googlemaps/playablelocations-proxy/workflows/Docker/badge.svg)
 ![Apache-2.0](https://img.shields.io/badge/license-Apache-blue)
 
 # Playable Locations Proxy Server
